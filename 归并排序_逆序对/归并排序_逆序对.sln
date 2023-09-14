@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "归并排序_逆序对", "归并排序_逆序对\归并排序_逆序对.vcxproj", "{48AEEBDA-05FE-4D28-9631-1BE679708B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48AEEBDA-05FE-4D28-9631-1BE679708B69}.Debug|x64.ActiveCfg = Debug|x64
+		{48AEEBDA-05FE-4D28-9631-1BE679708B69}.Debug|x64.Build.0 = Debug|x64
+		{48AEEBDA-05FE-4D28-9631-1BE679708B69}.Debug|x86.ActiveCfg = Debug|Win32
+		{48AEEBDA-05FE-4D28-9631-1BE679708B69}.Debug|x86.Build.0 = Debug|Win32
+		{48AEEBDA-05FE-4D28-9631-1BE679708B69}.Release|x64.ActiveCfg = Release|x64
+		{48AEEBDA-05FE-4D28-9631-1BE679708B69}.Release|x64.Build.0 = Release|x64
+		{48AEEBDA-05FE-4D28-9631-1BE679708B69}.Release|x86.ActiveCfg = Release|Win32
+		{48AEEBDA-05FE-4D28-9631-1BE679708B69}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6712FD74-DD42-4E8F-BA13-61362F16C037}
+	EndGlobalSection
+EndGlobal
